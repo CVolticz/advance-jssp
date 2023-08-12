@@ -139,4 +139,4 @@ cython_debug/
 
 
 # data
-data/
+data/01_raw/
